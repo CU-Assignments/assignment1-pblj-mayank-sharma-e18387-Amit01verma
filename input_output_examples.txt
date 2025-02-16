@@ -1,0 +1,47 @@
+Problem 1: String Analysis (Easy Level)
+
+Input:
+Enter a string: Java Programming @2025!
+
+Output:
+Vowels: 6  
+Consonants: 11  
+Digits: 4  
+Special Characters: 2  
+
+Problem 2: Matrix Operations (Medium Level)
+Input:
+Enter elements of Matrix 1:  
+2 3  
+4 5  
+
+Enter elements of Matrix 2:  
+6 7  
+8 9  
+
+Output:
+Addition:  
+8 10  
+12 14  
+
+Subtraction:  
+-4 -4  
+-4 -4  
+
+Multiplication:  
+36 41  
+64 73  
+
+Problem 3: Basic Banking System (Hard Level)
+Input:
+Create Account:  
+Name: Amit Kumar  
+Account Number: 98765  
+Initial Balance: 5000  
+
+Deposit: 2000  
+Withdraw: 6000  
+
+Output:
+Deposit successful! Current Balance: 7000  
+Error: Insufficient funds. Current Balance: 7000  
